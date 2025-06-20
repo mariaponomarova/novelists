@@ -1,0 +1,508 @@
+,typesOrg,number,numberOrg
+0,university in france,122,1
+1,academic publisher | learned society | nonprofit organization,106,3
+2,colonial colleges | private not-for-profit educational institution | private university | research university,94,4
+3,university,73,1
+4,public university,69,1
+5,academic publisher | colonial colleges | private not-for-profit educational institution | private university | research university,59,5
+6,comprehensive university | open-access publisher | public research university | university of excellence,55,4
+7,faculty,45,1
+8,open-access publisher | public university,44,2
+9,academy of sciences,42,1
+10,private not-for-profit educational institution | private university | research university,41,3
+11,comprehensive university | public university,40,2
+12,comprehensive university | open-access publisher | public university | university of applied sciences,37,4
+13,public educational institution of the united states | public research university,37,2
+14,organization,37,1
+15,colonial colleges | organization | private not-for-profit educational institution | private university | research university,35,5
+16,campus university | comprehensive university | nonprofit organization | public university | stiftungshochschule,34,5
+17,comprehensive university | open-access publisher | public research university | public university | university campus | university of excellence,34,6
+18,open-access publisher | university,33,2
+19,academic publisher | colonial colleges | private not-for-profit educational institution | private university | production company | research university,30,6
+20,land-grant university | public educational institution of the united states | public research university | united nations depository library,29,4
+21,comprehensive university | public research university | public university | university of excellence,29,4
+22,campus university | university,27,2
+23,organization | école normale supérieure,27,2
+24,academy of sciences | national academy,24,2
+25,open-access publisher | university in france,24,2
+26,open-access publisher | private not-for-profit educational institution | private university | research university,23,4
+27,comprehensive university | open-access publisher | public university,23,3
+28,open-access publisher | private university | public educational institution of the united states | public–private partnership | research university,23,5
+29,former educational institution | university in france,22,2
+30,academic publisher | academy of sciences | production company | publisher | publishing company,22,5
+31,collegiate university | educational organization | organization | public research university,22,4
+32,learned society | national academy,22,2
+33,private not-for-profit educational institution | university,21,2
+34,comprehensive university | local internet registry | public research university | public university | publisher | publishing company | university of excellence,20,7
+35,collegiate university | educational organization | exempt charity | higher education institution | organization | public university,18,6
+36,land-grant university | public educational institution of the united states | public research university,18,3
+37,comprehensive university | local internet registry | public university,18,3
+38,comprehensive university | open-access publisher | organization | public research university | public university | university of excellence,17,6
+39,land-grant university | private not-for-profit educational institution | private university | research university | sun grant institution,17,5
+40,collection | comprehensive university | public university,16,3
+41,former entity | university in france,16,2
+42,comprehensive university | local internet registry | organization | public university,16,4
+43,organization | public educational institution of the united states | public research university | university | university campus,16,5
+44,open-access publisher | organization | public research institution in france | research institute,15,4
+45,institute,14,1
+46,public university | research institute,14,2
+47,geographic location | university,14,2
+48,academic publisher | institute of technology | institute of technology | private not-for-profit educational institution | space grant institution | university,14,6
+49,educational facility,14,1
+50,high school,14,1
+51,academy | charitable organization | organization,13,3
+52,liberal arts college | private not-for-profit educational institution,13,2
+53,imperial university of the russian empire,13,1
+54,comprehensive university | organization | public university,12,3
+55,comprehensive university | organization | public research university | public university,12,4
+56,educational organization | higher education institution | public research university,12,3
+57,educational organization | higher education institution | open-access publisher | university,12,4
+58,grande école | higher education institution | école normale supérieure,12,3
+59,comprehensive university | university,12,2
+60,land-grant university | open-access publisher | production company | public educational institution of the united states | public research university,12,5
+61,learned society,12,1
+62,college of the university of oxford | university building,11,2
+63,academy of sciences | publisher | publishing company,11,3
+64,academy of sciences | book publisher | organization,11,3
+65,organization | research institute,11,2
+66,private not-for-profit educational institution | private university | research university | workplace,10,4
+67,educational facility | school building,10,2
+68,"public scientific, cultural or professional establishment",10,1
+69,academic department,10,1
+70,academy of sciences | learned society | national academy,10,3
+71,research institute | university,9,2
+72,czech research institution | organization | public university | publisher | publishing company | university,9,6
+73,academy of sciences | research institute,9,2
+74,academic publisher | academy of sciences | national academy | quango,9,4
+75,voluntary association,9,1
+76,educational institution,9,1
+77,academic institution,9,1
+78,higher education institution,9,1
+79,archive | higher education institution | library,9,3
+80,academic publisher | catholic university | open-access publisher | private not-for-profit educational institution | private university,8,5
+81,open-access publisher | private not-for-profit educational institution | research institute | university,8,4
+82,educational institution | grand établissement,8,2
+83,academy of sciences | building,8,2
+84,comprehensive university | local internet registry | open-access publisher | public university,8,4
+85,open-access publisher | private not-for-profit educational institution | university,8,3
+86,academy of sciences and arts,8,1
+87,academy of sciences | national academy | organization | public body,8,4
+88,nonprofit organization,8,1
+89,educational organization | open-access publisher | public university | publisher | publishing company,7,5
+90,college of the university of cambridge | university building,7,2
+91,public educational institution of the united states | public university,7,2
+92,scientific journal,7,1
+93,research institute,7,1
+94,higher education institution | public educational institution of the united states,7,2
+95,academy of sciences | learned society | national academy | open-access publisher | organization | publisher | publishing company,7,7
+96,academic publisher | open-access publisher | public university | research institute,7,4
+97,open-access publisher | ottoman association | university,7,3
+98,faculty | philosophy faculty,7,2
+99,organization | public university,7,2
+100,school,7,1
+101,educational institution | state university system,6,2
+102,academy of sciences | archive | database,6,3
+103,catholic university,6,1
+104,liberal arts college in the united states | private not-for-profit educational institution,6,2
+105,open-access publisher | public educational institution of the united states | public university,6,3
+106,open-access publisher | public research university | university in quebec,6,3
+107,academy of sciences | building | national academy | swedish royal academies,6,4
+108,private not-for-profit educational institution | university | university campus,6,3
+109,public university | university,6,2
+110,gymnasium in germany,6,1
+111,group of humans | membership organization,6,2
+112,public research university,6,1
+113,academic publisher | constituent college | educational organization | public research university,6,4
+114,biological research institute | private not-for-profit educational institution | university,6,3
+115,open-access publisher | public research university | university,5,3
+116,archive | research institute,5,2
+117,open-access publisher | public university | university,5,3
+118,academic department | college of the university of cambridge | educational institution | school building | university | university building,5,6
+119,law school,5,1
+120,comprehensive university | public university | university of excellence,5,3
+121,private not-for-profit educational institution | private university,5,2
+122,academy of sciences | educational institution | research institute,5,3
+123,learned society | nonprofit organization,5,2
+124,public educational institution of the united states | university,5,2
+125,scientific society,5,1
+126,academy of sciences | learned society | national academy | open-access publisher,5,4
+127,former entity | higher education institution | public university | university,5,4
+128,catholic university | university,5,2
+129,architectural heritage monument | open-access publisher | public university | research university,5,4
+130,national academy | scientific society,5,2
+131,catholic university | pontifical university | private university,5,3
+132,jewish seminary,5,1
+133,faculty | faculty of history | faculty of humanities,5,3
+134,open-access publisher | professional association | publisher | publishing company | regulatory college | school accreditor,5,6
+135,collegiate university | public research university | university in ontario,5,3
+136,public university | state university system | urban university,5,3
+137,educational facility | educational institution,4,2
+138,learned society | open-access publisher | scientific society,4,3
+139,academic institution | educational organization | higher education institution | university college,4,4
+140,comprehensive university | open-access publisher | public research university,4,3
+141,academic publisher | grand établissement | grande école | organization | public university,4,5
+142,organization | university,4,2
+143,educational organization | higher education institution | public university,4,3
+144,open-access publisher | research university | university,4,3
+145,institute of the russian academy of sciences,4,1
+146,local internet registry | open-access publisher | organization | public university,4,4
+147,public research university | university in quebec,4,2
+148,open-access publisher | organization | university,4,3
+149,educational institution | open-access publisher | private not-for-profit educational institution | private university | research university,4,5
+150,mathematical society,4,1
+151,open-access publisher | organization | public university,4,3
+152,higher education institution | public research university | public university | university in france,4,4
+153,architectural style | art movement | arts educational institution | institution,4,4
+154,educational organization | open-access publisher | university,4,3
+155,open-access publisher | public research university | university in ontario,4,3
+156,academy of sciences | collection | national academy,4,3
+157,college of the university of oxford,4,1
+158,public university | university in france,4,2
+159,gymnasium,3,1
+160,government body of australia | production company | public university,3,3
+161,higher education institution | école normale supérieure,3,2
+162,open-access publisher | organization,3,2
+163,general education liceum,3,1
+164,national research university,3,1
+165,open-access publisher | pontifical university | university,3,3
+166,independent school,3,1
+167,organization | public research university | public university | university of applied sciences | university of excellence,3,5
+168,institute of technology | polytechnic | public university | video game publisher,3,4
+169,organization | public research university,3,2
+170,faculty of law,3,1
+171,institute of technology | public research university | university of excellence,3,3
+172,literary society,3,1
+173,daily newspaper,3,1
+174,institute of the russian academy of sciences | research institute,3,2
+175,educational institution | school of international relations | university,3,3
+176,national academy,3,1
+177,language regulator | learned society | national academy,3,3
+178,political organization,3,1
+179,building complex | college of the university of oxford,3,2
+180,college,3,1
+181,public educational institution of the united states | public university | research university,3,3
+182,academy,3,1
+183,private not-for-profit educational institution | university | women's college,3,3
+184,academic publisher | public research university,3,2
+185,pontifical academy,3,1
+186,school of thought,3,1
+187,public research university | university in france,3,2
+188,private not-for-profit educational institution | research institute | university,3,3
+189,academy of sciences | national academy | swedish royal academies,3,3
+190,academic publisher | academy | academy of sciences,3,3
+191,association under the french law of 1901,3,1
+192,colleges that change lives | liberal arts college | private not-for-profit educational institution | private university | university campus,3,5
+193,colonial colleges | land-grant university | public research university | sea grant institution,3,4
+194,ancient university | open-access publisher | organization | public university,3,4
+195,commission,3,1
+196,studentenverbindung,3,1
+197,paramilitary organization | political faction | political organization,3,3
+198,academic publisher | private not-for-profit educational institution | university,3,3
+199,higher education institution | public university | replaced entity | university,2,4
+200,academy of sciences | award,2,2
+201,public educational institution of the united states | public university | university | university building,2,4
+202,higher education institution | organization,2,2
+203,publisher | publishing company | regulatory college | scientific society,2,4
+204,public university | university of applied sciences,2,2
+205,advocacy group | organization | umbrella organization,2,3
+206,faculty | organization | private not-for-profit educational institution | university,2,4
+207,learned society | voluntary association,2,2
+208,learned society | organization,2,2
+209,labor union | organization,2,2
+210,moroccan public institution | open-access publisher | university,2,3
+211,german student corps,2,1
+212,academy of sciences | statutory corporation,2,2
+213,scientific society | think tank,2,2
+214,higher education institution directly under ministry of education of the people’s republic of china | public university | university | vice-ministerial level university,2,4
+215,national university | open-access publisher | research university,2,3
+216,navy,2,1
+217,high school | public school,2,2
+218,architectural structure | lycée,2,2
+219,newspaper,2,1
+220,non-governmental organization | scientific society,2,2
+221,institute of technology | polytechnic | university,2,3
+222,seminary,2,1
+223,teacher recruitment competition | test,2,2
+224,residential college,2,1
+225,nonprofit organization | private association of the christian faithful,2,2
+226,art academy | art museum | museum | national academy,2,4
+227,constituent college | educational organization | higher education institution | public research university,2,4
+228,nonprofit organization | voluntary association,2,2
+229,religious organization | umbrella organization,2,2
+230,building | private not-for-profit educational institution | university,2,3
+231,campus university | comprehensive university | open-access publisher | public university,2,4
+232,faculty of humanities | philosophy faculty,2,2
+233,burschenschaft,2,1
+234,academy | voluntary association,2,2
+235,educational institution | open-access publisher | organization | pontifical university,2,4
+236,open-access publisher | publisher | publishing company | university,2,4
+237,educational institution | national research university | open-access publisher | public university,2,4
+238,college | liberal arts college | private not-for-profit educational institution | private university,2,4
+239,pontifical university,2,1
+240,magazine,2,1
+241,political party,2,1
+242,educational facility | lycée,2,2
+243,academic publisher | honor society | learned society | organization,2,4
+244,division of an educational institution | organization | scientific organization,2,3
+245,colleges that change lives | liberal arts college | private not-for-profit educational institution,2,3
+246,philosophy faculty,2,1
+247,organization | professional association | umbrella organization,2,3
+248,cultural association,2,1
+249,école d'application,2,1
+250,language regulator | national academy | organization,2,3
+251,college of the university of cambridge,2,1
+252,academic publisher | open-access publisher | public university,2,3
+253,land-grant university | open-access publisher | public educational institution of the united states | public university,2,4
+254,land-grant university | open-access publisher | public educational institution of the united states | public research university,2,4
+255,public educational institution of the united states | public research university | university campus,2,3
+256,laboratory,2,1
+257,public educational institution of the united states | public research university | university,2,3
+258,open-access publisher | production company | public research university,2,3
+259,production company | public research university | research institute,2,3
+260,catholic university | open-access publisher | organization | private university,2,4
+261,private university,2,1
+262,educational organization | higher education institution | university,2,3
+263,catholic university | private university,2,2
+264,educational organization | higher education institution | organization | public research university,2,4
+265,charitable organization,2,1
+266,educational organization | higher education institution | open-access publisher | public research university,2,4
+267,private not-for-profit educational institution | seminary,2,2
+268,land-grant university | open-access publisher | public educational institution of the united states | public research university | public university,2,5
+269,secondary school,2,1
+270,"studentenverbindung, catholic",1,1
+271,läroverk | normal school,1,2
+272,lycée | school building,1,2
+273,student organization,1,1
+274,lyceum,1,1
+275,organization | reflection group,1,2
+276,literary society | nonprofit organization,1,2
+277,students' union,1,1
+278,technische hochschule,1,1
+279,unibuc faculty,1,1
+280,liberal arts college | private not-for-profit educational institution | university,1,3
+281,liberal arts college in the united states | private not-for-profit educational institution | women's college,1,3
+282,lgbtq+ organization,1,1
+283,learning approach,1,1
+284,mathematical society | open-access publisher,1,2
+285,university in france | universités nouvelles,1,2
+286,university in ontario,1,1
+287,learned society | open-access publisher | publisher | publishing company | scientific society,1,5
+288,university observatory,1,1
+289,learned society | mathematical society | scientific society,1,3
+290,university-preparatory school,1,1
+291,state public university,1,1
+292,nonprofit organization | think tank,1,2
+293,medical ethics committee | quango,1,2
+294,private not-for-profit educational institution,1,1
+295,open-access publisher | organization | publisher | publishing company | university,1,5
+296,public institution,1,1
+297,public educational institution of the united states | university campus,1,2
+298,open-access publisher | private not-for-profit educational institution | private university,1,3
+299,open-access publisher | private not-for-profit educational institution | school of education,1,3
+300,open-access publisher | public educational institution of the united states | public research university,1,3
+301,private school,1,1
+302,private not-for-profit educational institution | school,1,2
+303,press office,1,1
+304,medical organization | research institute,1,2
+305,open-access publisher | public research university | university | university in british columbia,1,4
+306,"postal, telegraph and telephone service",1,1
+307,open-access publisher | state university system | university,1,3
+308,political organization | publisher | publishing company,1,3
+309,open-access publisher | swedish government agency | university,1,3
+310,planetarium,1,1
+311,organization | pressure group,1,2
+312,organization | youth organisation | zionist youth movement,1,3
+313,open-access publisher | organization | publisher | publishing company | regulatory college | scientific society,1,6
+314,public research university | university in manitoba,1,2
+315,public school | upper secondary school in norway,1,2
+316,publisher | publishing company,1,2
+317,medical school | university,1,2
+318,military academy | military school,1,2
+319,military school | national school,1,2
+320,ministry,1,1
+321,social movement,1,1
+322,ministry of hungary,1,1
+323,monthly magazine | periodical,1,2
+324,national university,1,1
+325,newspaper | scientific journal | trade magazine,1,3
+326,school | school building,1,2
+327,non-governmental organization | women's organization,1,2
+328,school building,1,1
+329,nonprofit organization | research institute,1,2
+330,nonprofit organization | writers union,1,2
+331,radio station,1,1
+332,q16697173,1,1
+333,open-access publisher | organization | polytechnic,1,3
+334,501(c)(3) organization | group of structures or buildings | private not-for-profit educational institution | private university | research university,1,5
+335,government agency,1,1
+336,land-grant university | public educational institution of the united states | university campus,1,3
+337,business school | faculty | organization,1,3
+338,central university,1,1
+339,central committee | cpsu body,1,2
+340,cemetery | private not-for-profit educational institution | university | women's college,1,4
+341,catholic university | private not-for-profit educational institution | private university | research university,1,4
+342,catholic university | pontifical university,1,2
+343,catholic school | high school,1,2
+344,business | enterprise | pharmaceutical company | public company,1,4
+345,business | enterprise,1,2
+346,business school,1,1
+347,boarding school | secondary school | university-preparatory school,1,3
+348,building | seminary,1,2
+349,building | open-access publisher | university,1,3
+350,building | gymnasium | school | school building,1,4
+351,building | educational organization | public research university | university,1,4
+352,building | educational facility | educational institution,1,3
+353,boys' school | secondary school | voluntary aided school,1,3
+354,boys' high school,1,1
+355,botanical garden | national museum | natural history museum,1,3
+356,charitable organization | independent school,1,2
+357,charitable organization | nonprofit organization,1,2
+358,christian school | church college | private not-for-profit educational institution | private university,1,4
+359,church college,1,1
+360,conservatory,1,1
+361,comprehensive university | open-access publisher | organization | public research university,1,4
+362,composition school | musical movement,1,2
+363,committee,1,1
+364,commission and consultative or deliberative ministerial body | organization,1,2
+365,colonial colleges | open-access publisher | private not-for-profit educational institution | private university | research university,1,5
+366,collegiate university | educational organization | higher education institution | public research university,1,4
+367,colleges that change lives | liberal arts college in the united states | private not-for-profit educational institution,1,3
+368,colleges that change lives | liberal arts college in the united states,1,2
+369,college | public educational institution of the united states,1,2
+370,college | private not-for-profit educational institution,1,2
+371,college | men's college | private not-for-profit educational institution,1,3
+372,college | college of the university of cambridge | university building,1,3
+373,collection | public educational institution of the united states | university,1,3
+374,clinic | nhs foundation trust | youth system,1,3
+375,clandestine press of the french resistance | daily newspaper,1,2
+376,cité scolaire | educational facility | lycée | public school,1,4
+377,book publisher | private university | research university,1,3
+378,boarding school | fürstenschule | gymnasium in germany,1,3
+379,corporation | museum | open-access publisher | university in ontario,1,4
+380,academy of sciences | national academy | open-access publisher,1,3
+381,ancient university of scotland | open-access publisher | public university,1,3
+382,aefe managed schools | french school abroad | school,1,3
+383,academy | language regulator | literary society,1,3
+384,academy | higher education institution | institut für lehrerbildung | institute | school | university,1,6
+385,academy | arts venue | cultural institution | museum,1,4
+386,academy school | boarding school | boys' school | grammar school | secondary school,1,5
+387,academy of sciences | national academy | publisher | publishing company,1,4
+388,academy of sciences | national academy | pontifical academy,1,3
+389,academy of sciences | library | national academy | open-access publisher,1,4
+390,boarding school | first school | primary school | private school | university-preparatory school,1,5
+391,academy of sciences | archive | national academy,1,3
+392,academic publisher | publisher | publishing company | university in france,1,4
+393,academic publisher | organization | public university,1,3
+394,academic publisher | national university,1,2
+395,academic publisher | international organization | nonprofit organization | open-access publisher,1,4
+396,academic institution | seminary,1,2
+397,academic institution | educational institution,1,2
+398,academic institution | catholic theological faculty | organization,1,3
+399,arboretum | open-access publisher | private not-for-profit educational institution | private university,1,4
+400,architectural landmark | business | research institute,1,3
+401,architectural landmark | digital library | history museum | library | museum building | national museum,1,6
+402,architectural structure | nonprofit organization | research center,1,3
+403,boarding school | charitable organization | independent school | school,1,4
+404,boarding school | charitable organization | independent school,1,3
+405,boarding school | charitable organization | hospital | independent school,1,4
+406,boarding school | boys' school | independent school | public school,1,4
+407,boarding school | boys' school | independent school,1,3
+408,autonomous university | open-access publisher | organization | research university,1,4
+409,autonomous university | comprehensive academic and research university | corporation | open-access publisher | public research university,1,5
+410,astronomical observatory | tourist attraction,1,2
+411,astronomical observatory,1,1
+412,association,1,1
+413,artist collective | scientific society,1,2
+414,art museum | nonprofit organization | production company | publisher | publishing company,1,5
+415,arsenal | census-designated place in the united states | military base | military training area,1,4
+416,army,1,1
+417,armed organisation group | maquis,1,2
+418,armed forces,1,1
+419,archive | national library | public library,1,3
+420,conservatory | university,1,2
+421,creative union in the soviet union | organization | writers union,1,3
+422,land-grant university | public educational institution of the united states | university,1,3
+423,higher education institution | open-access publisher | public university,1,3
+424,hospitaller order | order of chivalry | religious military order,1,3
+425,hochschule | university,1,2
+426,historical society | learned society | nonprofit organization | research library,1,4
+427,historical society | learned society | nonprofit organization,1,3
+428,historical commission for eastern europe,1,1
+429,higher education institution | teacher training centre in poland,1,2
+430,higher education institution | school,1,2
+431,higher education institution | open-access publisher | university in france,1,3
+432,higher education institution directly under ministry of education of the people’s republic of china | university | vice-ministerial level university,1,3
+433,group of universities and institutions (france),1,1
+434,higher education institution directly under ministry of education of the people’s republic of china | public university | vice-ministerial level university,1,3
+435,higher education institution directly under ministry of education of the people’s republic of china | public research university | vice-ministerial level university,1,3
+436,high school | school | specialized high school in new york city,1,3
+437,high school | school building,1,2
+438,high school | school,1,2
+439,high school | public school | school building,1,3
+440,gymnasium | school building,1,2
+441,gymnasium | school,1,2
+442,imperial university of the russian empire | university,1,2
+443,independent school | school,1,2
+444,independent school | university-preparatory school,1,2
+445,information office | united states federal agency,1,2
+446,land-grant university | public educational institution of the united states | united states senior military college | university,1,4
+447,land-grant university | public educational institution of the united states | public university | university,1,4
+448,land-grant university | public educational institution of the united states | public research university | sea grant institution | space grant institution,1,5
+449,land-grant university | public educational institution of the united states | public research university | publisher | publishing company,1,5
+450,kriegsakademie | military academy,1,2
+451,korporationsverband,1,1
+452,juvenile political organization,1,1
+453,jewish organization | non-governmental organization | nonprofit organization | organization,1,4
+454,jesuit university | pontifical university,1,2
+455,jesuit university | open-access publisher | pontifical university | private educational institution | private not-for-profit educational institution | university,1,6
+456,international organization | scientific organization,1,2
+457,intelligence agency | military unit,1,2
+458,institution,1,1
+459,institute of technology | public university,1,2
+460,institute of technology | national research university | open-access publisher,1,3
+461,institute of technology | local internet registry | public research university | university of excellence,1,4
+462,institute of technology,1,1
+463,gymnasium in germany | humanistic gymnasium,1,2
+464,group of humans,1,1
+465,cultural magazine | journal,1,2
+466,educational institution | nonprofit organization | publisher | publishing company | think tank,1,5
+467,educational organization | public research university,1,2
+468,educational organization | higher education institution | private university,1,3
+469,educational organization | higher education institution | open-access publisher | organization | public research university,1,5
+470,educational institution | yeshiva,1,2
+471,educational institution | university,1,2
+472,educational institution | public research university | university in british columbia,1,3
+473,educational institution | private higher education in france,1,2
+474,educational institution | organization | university,1,3
+475,educational institution | inns of court | university building,1,3
+476,grande école | military academy,1,2
+477,educational institution | federal university,1,2
+478,division of an educational institution,1,1
+479,department of social sciences,1,1
+480,daily newspaper | online newspaper,1,2
+481,daily newspaper | newspaper,1,2
+482,czech research institution | open-access publisher | public university | publisher | publishing company | university,1,6
+483,cultural property | public university | university campus,1,3
+484,cultural magazine | literary magazine | weekly magazine,1,3
+485,eingetragener verein,1,1
+486,engineering college,1,1
+487,engineering college | grande école,1,2
+488,engineering college | private not-for-profit educational institution | university,1,3
+489,grand lodge | organization,1,2
+490,grammar school | high school | school | secondary school,1,4
+491,graduate school | open-access publisher | public educational institution of the united states | research institute,1,4
+492,academic degree | educational stage | postgraduate degree,1,3
+493,general education liceum | gymnasium,1,2
+494,fürstenschule | gymnasium in germany,1,2
+495,french umr,1,1
+496,free corps | military legion,1,2
+497,foreign affairs ministry,1,1
+498,federation | international association of the faithful | organization,1,3
+499,federal agency of germany | research institute,1,2
+500,faculty | university building,1,2
+501,faculty | faculty of letters | philosophy faculty,1,3
+502,faculty | faculty of history | philosophy faculty,1,3
+503,faculty | faculty of history,1,2
+504,experiment | group of humans | megaproject | military project | task,1,5
+505,european political alliance | political movement,1,2
+506,école normale supérieure,1,1
