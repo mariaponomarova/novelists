@@ -11,7 +11,7 @@
 - [Import fields](sparqlbooks/wdt_import_fields.sparqlbook)
 - [Import occupations](sparqlbooks/wdt_import_occupations.sparqlbook)
 - [Import additional data about organisations](sparqlbooks/wdt_import_organisations_additional_data.sparqlbook)
-- [Import employers / merberships / educational organizations][sparqlbooks/wdt_import_relationships_to_organisations.sparqlbook]
+- [Import employers / merberships / educational organizations](sparqlbooks/wdt_import_relationships_to_organisations.sparqlbook)
 - [Import information about studies and teaching](sparqlbooks/wdt_studies_import.sparqlbook)
 
 ## Notebooks Jupyter
