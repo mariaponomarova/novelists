@@ -14,16 +14,9 @@ This project explores the population of novelists across different historical pe
 ###  Phase exploratoire
 
 
-* [Problématique et questionnement](Problematique-Questionnement.md) 
-* [Listes d'écrivains](Listes-d'ecrivains.md)
-[comment]: <> (* [Catalogue des informations](Catalogue-des-informations.md))
-
-
-### Récupération et analyse de données existantes
-
-* [Explorer DBpedia](DBpedia/DBpedia_explorer.md)
-* [Importer les données de DBpedia](DBpedia/DBpedia_importer_dans_base_personnelle.md)
-* [Visualiser les données de DBpedia](DBpedia/DBpedia_analyser_donnees_importees.md)
+* [Problématique et questionnement](/Documentation/problematique.md) 
+* [Listes d'écrivains](Documentation/Listes-d'ecrivains.md)
+* [Catalogue des informations](Documentation/catalogue_des_infromations.md)
 
 
 ### Analyse des données de Wikidata (notebooks Python)
@@ -35,4 +28,6 @@ This project explores the population of novelists across different historical pe
 
 ### Résultats
 
-* [Analyse de la distribution dans le temps et l'espace des naissances](...)
+* [Evolution démographique et géographique](Documentation/resultats/1._Evolution_démographique_et_géographique.md)
+* [Analyse des Professions Littéraires et leur Distribution Géographique](Documentation/resultats/2._Analyse_des_Professions_Littéraires_et_leur_Distribution_Géographique.md)
+* [Analyse des Réseaux Universitaires](Documentation/resultats/3._Analyse_des_Réseaux_Universitaires.md)
